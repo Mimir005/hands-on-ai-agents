@@ -57,33 +57,11 @@
 
 ## 许可证
 
-本仓库采用 MIT 许可证（示例）。建议在仓库根目录添加名为 `LICENSE` 的文件并包含完整许可证文本。
-
-MIT License
-
-Copyright (c) 2026 Mimir005
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+本仓库采用 MIT 许可证。
 
 ## 贡献
 
-欢迎通过 PR 改进文档、添加 `LICENSE` 文件或补充赞助信息。
+欢迎通过 PR 改进文档、添加 `LICENSE` 文件或补充信息。
 
 ## 参考资源
 
