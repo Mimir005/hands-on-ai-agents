@@ -6,6 +6,16 @@
 
 本人承诺所有收益将用于偿还课程贷款（以及购买斐济悲）
 
+## What's next
+
+- MCP的详细教程
+- ML Studio本地部署大模型
+- 基础部分讲解
+- langgraph教程
+- Agent理论部分知识
+- 更清晰的圆头耄耋
+
+
 ## 项目结构（部分）
 
 - `hello_word_chain.py`
