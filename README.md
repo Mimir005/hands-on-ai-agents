@@ -4,7 +4,7 @@
 
 持续更新，喜欢的请⭐⭐⭐
 
-本人承诺所有受益将用于偿还课程贷款（以及购买斐济悲）
+本人承诺所有收益将用于偿还课程贷款（以及购买斐济悲）
 
 ## 项目结构（部分）
 
@@ -46,7 +46,7 @@
 - GitHub Sponsors：`https://github.com/sponsors/Mimir005`
 - Open Collective：在仓库说明中添加 Open Collective 链接（如适用）
 - Buy Me a Coffee：
-  ![image](resource\e3978777806a36a51cd901795f3805b1.jpg)
+  ![image](resource/e3978777806a36a51cd901795f3805b1.jpg)
 
 ## 许可证
 
