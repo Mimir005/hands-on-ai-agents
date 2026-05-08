@@ -53,7 +53,8 @@
 - GitHub Sponsors：`https://github.com/sponsors/Mimir005`
 - Open Collective：在仓库说明中添加 Open Collective 链接（如适用）
 - Buy Me a Coffee：
-  ![image](resource/e3978777806a36a51cd901795f3805b1.jpg)
+
+<img src="resource/e3978777806a36a51cd901795f3805b1.jpg" width="200" alt="Buy Me a Coffee QR Code">
 
 ## 许可证
 
