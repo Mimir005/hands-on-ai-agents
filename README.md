@@ -15,7 +15,6 @@
 - Agent理论部分知识
 - 更清晰的圆头耄耋
 
-
 ## 项目结构（部分）
 
 - `hello_word_chain.py`
@@ -26,8 +25,6 @@
 - `6. multimodal.py`
 - `7. mcp.py`
 - `8. custome context.py`
-- `env_utilis.py`
-- `text.py`
 - `resource/`（包含示例图片等资源）
 - `README.md`
 - `LICENSE`（请在仓库根目录添加此文件）
@@ -87,3 +84,7 @@ SOFTWARE.
 ## 贡献
 
 欢迎通过 PR 改进文档、添加 `LICENSE` 文件或补充赞助信息。
+
+## 参考资源
+
+- [LangChain Academy](https://academy.langchain.com/)
