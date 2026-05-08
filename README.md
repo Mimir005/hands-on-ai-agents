@@ -51,9 +51,7 @@
 如果该项目对你有帮助，欢迎通过以下方式支持：
 
 - Buy Me a Coffee：
-
-<img src="resource/e3978777806a36a51cd901795f3805b1.jpg" width="300" alt="Buy Me a Coffee QR Code">
-
+<img src="resource/e3978777806a36a51cd901795f3805b1.jpg" width="200" alt="Buy Me a Coffee QR Code">
 
 ## 许可证
 
