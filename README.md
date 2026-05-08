@@ -46,7 +46,7 @@
 - GitHub Sponsors：`https://github.com/sponsors/Mimir005`
 - Open Collective：在仓库说明中添加 Open Collective 链接（如适用）
 - Buy Me a Coffee：
-  ![buy me a coffee](resource\e3978777806a36a51cd901795f3805b1.jpg)
+  ![image](resource\e3978777806a36a51cd901795f3805b1.jpg)
 
 ## 许可证
 
