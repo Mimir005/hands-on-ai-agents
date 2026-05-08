@@ -32,8 +32,10 @@ async def main():
     agent = create_agent(llm, tools= tools)
 
     # 5. 调用 Agent
+    query_question = "从 langchain.prompts 导入 PromptTemplate 这个模块能否正常导入？"
+
     response = await agent.ainvoke({
-        "messages": [HumanMessage(content="LangChain 中如何给 Agent 添加长期记忆？")]
+        "messages": [HumanMessage(content=query_question)],
     })
 
     print("\n=== Agent 回答 ===")

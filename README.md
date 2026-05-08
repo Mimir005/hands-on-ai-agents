@@ -2,6 +2,8 @@
 
 用于演示与学习基于 LangChain/LangGraph 自定义工具的 AI agent 的示例集合。
 
+本教程使用的所有模型均为本地部署，但使用AI供应商API同样适用。
+
 持续更新，喜欢的请⭐⭐⭐
 
 本人承诺所有收益将用于偿还课程贷款（以及购买斐济悲）
@@ -51,7 +53,7 @@
 如果该项目对你有帮助，欢迎通过以下方式支持：
 
 - Buy Me a Coffee：
-<img src="resource/e3978777806a36a51cd901795f3805b1.jpg" width="200" alt="Buy Me a Coffee QR Code">
+  <img src="resource/e3978777806a36a51cd901795f3805b1.jpg" width="200" alt="Buy Me a Coffee QR Code">
 
 ## 许可证
 
