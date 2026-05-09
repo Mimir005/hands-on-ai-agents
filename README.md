@@ -4,11 +4,14 @@
 
 本教程使用的所有模型均为本地部署，但使用AI供应商API同样适用。
 
+由于本教程将随着我个人的学习而更新以及重新组织，所以有不足的地方请大家多多包涵。
+也欢迎指出你认为我没有涉及到但很重要的知识，以及志同道合的朋友帮助我一同完善教程。
+
 持续更新，喜欢的请⭐⭐⭐
 
 本人承诺所有收益将用于偿还课程贷款（以及购买斐济悲）
 
-## why
+## why this
 
 Langchain框架的变动和更新速度非常快，导致很多教程和示例很快就过时了。
 这个仓库旨在提供一个持续更新的、基于最新版本Langchain的AI agent示例集合，帮助大家更好地理解和使用这个框架。
@@ -16,14 +19,20 @@ Langchain框架的变动和更新速度非常快，导致很多教程和示例�
 个人来说，不推荐任何市面上的教程，因为你很可能在`form ... import ...`就遭遇报错，那实在是过于挫败了。
 所以，索性自己做一个教程。
 
+说实话，我就是被过时的教程与图书给折磨疯了，才会动手制作这个教程。
+甚至Github上搜索的教程的大多过时了，要是langchain官方文档更像人类的话，我想我也不用费这个力气了。
+
 ## What's next
 
 - MCP的详细教程
 - ML Studio本地部署大模型
-- 基础部分讲解
+- 基础部分讲解（主要在做，现在存放于part_1_concept文件中，只是草稿，希望有个文笔好的朋友来帮助我；/(ㄒoㄒ)/~~）
 - langgraph教程
 - Agent理论部分知识
 - 更清晰的圆头耄耋
+- 把现有的教程变更为jupyter notebook形式(还在学习notebook的使用方法，主要是不会快捷键，相信会很快完成这一部分)
+- 制作示例用的文件（.pdf, .csv等）
+
 
 ## 项目结构（部分）
 
@@ -73,4 +82,11 @@ Langchain框架的变动和更新速度非常快，导致很多教程和示例�
 
 ## 参考资源
 
+(sorry, i'm too lazy to put all resources with the link. I'll fill it(maybe, i hope so))
+
 - [LangChain Academy](https://academy.langchain.com/)
+- deeplearning.ai
+- Udemy
+- Coursera
+- Langchain Doc
+- some book
