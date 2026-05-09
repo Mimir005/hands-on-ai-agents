@@ -5,9 +5,11 @@ from langchain_openai import ChatOpenAI
 from langchain.agents import create_agent
 from langchain.messages import HumanMessage
 from langchain.tools import tool, ToolRuntime
+from dotenv import load_dotenv
+import os
 
 from dataclasses import dataclass
-
+load_dotenv()
 
 
 @dataclass
