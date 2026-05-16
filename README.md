@@ -1,4 +1,4 @@
-# Hands-On-AI-Agents（坚持更新中2016-5-15）
+# Hands-On-AI-Agents（坚持更新中2016-5-16）
 
 用于演示与学习基于 LangChain/LangGraph 自定义工具的 AI agent 的示例集合。
 
@@ -32,7 +32,6 @@ Langchain框架的变动和更新速度非常快，导致很多教程和示例�
 - 更清晰的圆头耄耋
 - 把现有的教程变更为jupyter notebook形式(还在学习notebook的使用方法，主要是不会快捷键，相信会很快完成这一部分)
 - 制作示例用的文件（.pdf, .csv等）
-
 
 ## 项目结构（部分）
 
